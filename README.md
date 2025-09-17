@@ -1,3 +1,28 @@
-# my-sql-study
+# Real MySql 스터디
 
-test
+## 실행계획(Explain)
+<img width="50%" alt="3" src="https://github.com/user-attachments/assets/8585473d-c624-4ea3-bcf4-69beb1e5498d" />
+
+
+## 매일 해야할 것
+1. SQL문제 풀어오고 인증하기
+- 두뇌훈련 느낌 - 1문제씩
+- 예시) 2353. Design a Food Rating System
+<img width="50%" alt="2" src="https://github.com/user-attachments/assets/7e60346a-97c9-4e90-b7c6-a4d0b2016138" />
+
+---
+
+## 매주 해야할 것
+1. 책 내용 보고 정리하기
+```text
+1. 각 목차별 핵심내용 정리해서 올리기(순서 상관없이)
+    1. 대단원: 핵심 내용
+    2. 중단원: 핵심 내용
+2. 코드 칠 수 있으며 코드로 정리
+3. 그림 많이 넣어두기(가독성 높이기)
+    1. 가독성 높일 정도로
+    2. GPT로 정리글 안 만든 느낌 드게 하기
+4. **샤키라 샘플  데이터베이스 가져와서 실습해보기(8 ~ 10장 할 때 사용하기)**
+```
+
+2. 문제 OX, 빈칸 포함 총 10문제 만들기 
